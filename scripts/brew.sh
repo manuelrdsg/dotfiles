@@ -73,5 +73,8 @@ mas install 1388020431
 # Spark
 mas install 1176895641
 
+# 1Password7
+mas install 1333542190
+
 # todoist
 # mas install 585829637
