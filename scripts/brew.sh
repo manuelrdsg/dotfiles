@@ -51,11 +51,27 @@ brew install github/gh/gh
 brew install curl
 
 # *********************************
+# SCRPY
+brew install scrcpy
+
+# *********************************
 # mac app store
 brew install mas
+
 # magnet window management
 # mas install 441258766
+
 # dato
 mas install 1470584107
+
+# amphetamine
+mas install 937984704
+
+# DevCleaner
+mas install 1388020431
+
+# Spark
+mas install 1176895641
+
 # todoist
-#mas install 585829637
+# mas install 585829637

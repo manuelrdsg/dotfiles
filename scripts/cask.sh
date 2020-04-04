@@ -29,6 +29,8 @@ brew cask install font-jetbrains-mono
 
 brew cask install typora
 
+brew cask install android-platform-tools
+
 brew cask install qlmarkdown                          # QuickLook for Markdown Files
 brew cask install firefox                             # Firefox
 brew cask install google-chrome-canary                # Chrome Canary
@@ -38,7 +40,7 @@ brew cask install alfred                              # Alfred
 brew cask install zoomus                              # Zoom
 brew cask install spotify                             # Spotify
 brew cask install ngrok                               # Local server exposure
-brew cask install bartender                           # Organise TabBar Icons 
+brew cask install bartender                           # Organise TabBar Icons
 brew cask install whatsapp                            # Whatsapp
 brew cask install rocket                              # Emojis with : notation
 brew cask install notion                              # Notion
