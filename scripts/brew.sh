@@ -54,8 +54,8 @@ brew install curl
 # mac app store
 brew install mas
 # magnet window management
-mas install 441258766
+# mas install 441258766
 # dato
 mas install 1470584107
 # todoist
-mas install 585829637
+#mas install 585829637

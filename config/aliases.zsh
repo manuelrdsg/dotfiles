@@ -14,11 +14,11 @@ alias ip="echo Your ip is; dig +short myip.opendns.com @resolver1.opendns.com;"
 
 # set up https-server
 # https://paulbrowne.xyz/https-localhost
-alias https-server='http-server --ssl --cert ~/.ssl/localhost.crt --key ~/.ssl/localhost.key -a localhost -o'
+#alias https-server='http-server --ssl --cert ~/.ssl/localhost.crt --key ~/.ssl/localhost.key -a localhost -o'
 
 # launch applications
-alias chrome='open -a "/Applications/Google Chrome.app" --args --force-renderer-accessibility'
-alias chromeDebug='chrome --remote-debugging-port=9222'
+#alias chrome='open -a "/Applications/Google Chrome.app" --args --force-renderer-accessibility'
+#alias chromeDebug='chrome --remote-debugging-port=9222'
 
 # npm stuff
 alias ni='npm install'
@@ -59,7 +59,6 @@ alias freewifi="sudo ifconfig en0 ether `openssl rand -hex 6 | sed 's/\(..\)/\1:
 # directory short cuts
 alias p='cd ~/Projects/'
 alias d='cd ~/Downloads/'
-alias sj='cd ~/Projects/stefan-judis-website/'
 
 # create files in subfolders
 function touchp() {

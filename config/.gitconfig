@@ -1,6 +1,6 @@
 [user]
-  name = stefan judis
-  email = stefanjudis@gmail.com
+  name = manuel rodriguez-sanchez
+  email = manuelrdsg@gmail.com
 [color]
   diff = auto
   stats = auto
@@ -27,7 +27,7 @@
   keepBackup = true
 [core]
   editor = vim
-  excludesfile = /Users/stefanjudis/.gitignore_global
+  excludesfile = /Users/manuelrdsg/.gitignore_global
 [push]
   default = current
 [color "diff"]
