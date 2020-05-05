@@ -1,5 +1,8 @@
 # sexy list handling
-alias ll='exa -la --git'
+alias ll='exa -lah --git'
+alias l='exa'
+alias la='exa -a'
+alias ls='exa --color=auto'
 
 # Hide/show all desktop icons (useful when presenting)
 alias hidedesktop="defaults write com.apple.finder CreateDesktop -bool false && killall Finder"

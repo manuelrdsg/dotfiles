@@ -26,6 +26,7 @@ brew tap homebrew/cask-fonts
 brew cask install font-fira-code
 brew cask install font-oswald
 brew cask install font-jetbrains-mono
+brew cask install font-hack-nerd-font
 
 brew cask install typora
 
@@ -44,5 +45,6 @@ brew cask install bartender                           # Organise TabBar Icons
 brew cask install whatsapp                            # Whatsapp
 brew cask install rocket                              # Emojis with : notation
 brew cask install notion                              # Notion
+brew cask install rectangle                           # Managing windows easily
 # enable audio and brightness control for ext screens
 brew cask install monitorcontrol

@@ -61,9 +61,6 @@ brew install mas
 # magnet window management
 # mas install 441258766
 
-# dato
-mas install 1470584107
-
 # amphetamine
 mas install 937984704
 
@@ -76,5 +73,8 @@ mas install 1176895641
 # 1Password7
 mas install 1333542190
 
-# todoist
-# mas install 585829637
+# The Unarchiver
+mas install 425424353
+
+# XCode
+#mas install 497799835
