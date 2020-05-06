@@ -46,5 +46,6 @@ brew cask install whatsapp                            # Whatsapp
 brew cask install rocket                              # Emojis with : notation
 brew cask install notion                              # Notion
 brew cask install rectangle                           # Managing windows easily
+brew cask install openinterminal                      # Open documents and folders in editor or terminal
 # enable audio and brightness control for ext screens
 brew cask install monitorcontrol
