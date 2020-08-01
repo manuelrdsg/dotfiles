@@ -26,6 +26,8 @@ HIST_STAMPS="yyyy-mm-dd"
 
 source $ZSH/oh-my-zsh.sh
 
+ZSH_DISABLE_COMPFIX=true
+
 ################################################################################
 # iterm
 
