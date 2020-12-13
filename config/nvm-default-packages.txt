@@ -1,9 +1,11 @@
 alfred-fkill
 alfred-hl
 fkill-cli
+gatsby-cli
 git-recall
 imagemin-cli
 manage-wifi-cli
 netlify-cli
+npm
 trash-cli
 vmd
