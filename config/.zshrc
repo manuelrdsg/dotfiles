@@ -1,3 +1,6 @@
+#ZSH "Insecure completion-dependent directories detected"
+ZSH_DISABLE_COMPFIX=true
+
 export PATH=:/usr/local/bin:/usr/local/sbin:$HOME/bin:$PATH
 # Path to your oh-my-zsh configuration.
 ZSH=$HOME/.oh-my-zsh
